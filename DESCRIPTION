@@ -1,0 +1,12 @@
+Package: Freqtab
+Type: Package
+Title: Creates SPSS like frequency tables
+Version: 0.1.0
+Author: Lukas Kraiger
+Maintainer: Lukas Kraiger <lukas.kraiger@univie.ac.at>
+Description: Creates frequency tables like SPSS.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: knitr
